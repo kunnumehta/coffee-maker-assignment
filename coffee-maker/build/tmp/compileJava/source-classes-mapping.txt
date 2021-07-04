@@ -1,0 +1,18 @@
+Model/Outlet.java
+ Model.Outlet
+Model/Component.java
+ Model.Component
+Model/Beverage.java
+ Model.Beverage
+Model/MachineObject.java
+ Model.MachineObject
+Model/Machine.java
+ Model.Machine
+Utils/StockManager.java
+ Utils.StockManager
+Utils/BeverageServingManager.java
+ Utils.BeverageServingManager
+Controller/CoffeeMachineController.java
+ Controller.CoffeeMachineController
+Application.java
+ Application
